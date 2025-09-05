@@ -4,7 +4,7 @@ line(0, 99, 99, 0);
 // (  x,  y,  x,  y ) Common formula: x = horizontal y = Vertical
 line(49, 49.5, 49.5, 99);
 
-// A square looks like this require 3 floating parameters for dimension
+// A square looks like this require 3 floating parameters for the dimension to be created 
 square(10, 40, 50);
 square(70, 10, 15);
 square(90, 30, 60);

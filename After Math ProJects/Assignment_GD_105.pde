@@ -1,8 +1,10 @@
 line(0, 0, 99, 99);
 line(0, 99, 99, 0);
-
-//  (  x,   y,   x,  y )
-// x = horizontal 
-// y = Vertical
+//   right | Left 
+// (  x,  y,  x,  y ) Common formula: x = horizontal y = Vertical
 line(49, 49.5, 49.5, 99);
-// Can you write other programming languages in processing? I think is possible...
+
+// A square looks like this require 3 floating parameters for dimension
+square(10, 40, 50);
+square(70, 10, 15);
+square(90, 30, 60);
