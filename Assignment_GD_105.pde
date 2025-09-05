@@ -8,5 +8,5 @@ line(49, 49.5, 49.5, 99);
 square(10, 40, 50);
 square(70, 10, 15);
 square(90, 30, 60);
-///     (x, y, z)
+//     (x, y, z)
 // (width, height, scale)
