@@ -17,3 +17,6 @@ void draw()
   fill(25.45,200); // fill color for the rectangle
   rect(300,300,100,50); // drawing a rectangle
 }
+
+// If this code is tested on processing you will see every line 
+// drawn with the first method which display each row on the screen
