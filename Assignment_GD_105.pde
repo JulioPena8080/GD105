@@ -7,6 +7,10 @@
 
 //void draw() 
 //{
+    
+  // I should type in formula but I cant right now... thats it looks like this... 
+  // I want to write this before next week.... That would be Update v0.4 
+  
   
   // Axis "X"
   line(0, 99, 0, 0);  
@@ -53,6 +57,7 @@
   line(99, 90, 0, 90); 
   line(99, 95, 0, 95);
   line(99, 100, 0, 100);
+
   //    L        7
   //   right | Left 
   // (  x,  y,  x,  y ) Common formula: x = horizontal y = Vertical
